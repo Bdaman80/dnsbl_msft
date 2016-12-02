@@ -1,0 +1,8 @@
+## Name Server List From Desktop
+# bdaman-dev.net
+#
+NS1.MSFT.NET
+NS2.MSFT.NET
+NS3.MSFT.NET
+NS4.MSFT.NET
+NS5.MSFT.NET
